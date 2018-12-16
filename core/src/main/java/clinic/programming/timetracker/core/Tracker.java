@@ -1,7 +1,5 @@
 package clinic.programming.timetracker.core;
 
-export idontgivadamn.org;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import clinic.programming.timetracker.core.dao.TimeEntry;
